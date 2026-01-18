@@ -52,4 +52,4 @@ jobs:
           app-name: 'abhishekpersonalproject'
           slot-name: 'abhishekpersonalproject'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_477E889FF38F48378B341F8EA7B7F78B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6895AE9F119B42D2A2CFF04BDA8545C6 }}
